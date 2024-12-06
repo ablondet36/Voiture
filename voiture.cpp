@@ -4,7 +4,7 @@
 voiture::voiture()
 {
     kilometres= 11500;
-    couleur="jaune";
+    couleur="vert";
 }
 
 int voiture::get_kilometres()
