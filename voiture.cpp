@@ -2,7 +2,7 @@
 
 voiture::voiture()
 {
-    kilometres= 110000;
+    kilometres= 11500;
 }
 
 int voiture::get_kilometres()
