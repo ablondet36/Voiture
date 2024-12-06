@@ -3,7 +3,7 @@
 
 voiture::voiture()
 {
-    kilometres= 11500;
+    kilometres= 11800;
     couleur="vert";
 }
 
